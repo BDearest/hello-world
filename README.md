@@ -1,2 +1,2 @@
-# hello-world
-My first little repository
+# README
+This is a little readme for the hello-world repository.
